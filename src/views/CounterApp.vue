@@ -64,10 +64,8 @@ h2 {
   margin: 1rem;
 }
 
-/* dfebfa */
-
 .main-app {
-  background-color: blue;
+  background-color: #dfebfa;
   max-width: 300px;
   min-height: 200px;
   margin: auto;
