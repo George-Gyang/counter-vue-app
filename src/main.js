@@ -21,7 +21,7 @@ const router = createRouter({
             component: Counter
         },
         {
-            path: "/:catchall(.*)*",
+            path: "/:pathall(.*)*",
             name: "Not Found",
             component: ErrorPage
         }
