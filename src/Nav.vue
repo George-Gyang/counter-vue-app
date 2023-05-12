@@ -23,7 +23,7 @@
 <style scoped>
 nav {
   background-color: aquamarine;
-  height: 3rem;
+  padding: 1rem;
   padding-left: 1rem;
 }
 

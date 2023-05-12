@@ -13,6 +13,7 @@ import Footer from "@/Footer.vue";
 
 <style>
 main{
-  min-height: 80vh;
+  min-height: 70vh;
+  padding: 1rem;
 }
 </style>
